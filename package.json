@@ -1,26 +1,29 @@
 {
-  "name": "node-js-getting-started",
-  "version": "0.1.5",
-  "description": "A sample Node.js app using Express 4",
+  "name": "qlocktwo",
+  "version": "1.0.0",
+  "description": "Qlocktwo with angular",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "ejs": "2.3.3",
-    "express": "4.13.3"
-  },
-  "engines": {
-    "node": "0.12.7"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-getting-started"
+    "url": "git+https://github.com/zouzias/qlocktwo-angular.git"
   },
   "keywords": [
-    "node",
-    "heroku",
-    "express"
+    "qlocktwo"
   ],
-  "license": "MIT"
+  "author": "Anastasios Zouzias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zouzias/qlocktwo-angular/issues"
+  },
+  "homepage": "https://github.com/zouzias/qlocktwo-angular#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "gzippo": "^0.2.0"
+  },
+  "devDependencies": {
+    "grunt-build-control": "^0.6.2"
+  }
 }
