@@ -1,0 +1,29 @@
+{
+  "name": "qlocktwo",
+  "version": "1.0.0",
+  "description": "Qlocktwo with angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zouzias/qlocktwo-angular.git"
+  },
+  "keywords": [
+    "qlocktwo"
+  ],
+  "author": "Anastasios Zouzias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zouzias/qlocktwo-angular/issues"
+  },
+  "homepage": "https://github.com/zouzias/qlocktwo-angular#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "gzippo": "^0.2.0"
+  },
+  "devDependencies": {
+    "grunt-build-control": "^0.6.2"
+  }
+}
