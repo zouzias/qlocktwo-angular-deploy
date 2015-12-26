@@ -1,7 +1,6 @@
-# qlocktwo-angular-deploy
 Deploy of [qlocktwo-angular](https://github.com/zouzias/qlocktwo-angular.git) to heroku.
 
-# Instructions
+### Instructions
 
 First, install [Heroku Toolbelt](https://toolbelt.heroku.com)
 
